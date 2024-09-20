@@ -1,1 +1,1 @@
-# Prodigy-InfoTech_DS_Intern
+# Prodigy-InfoTech_DS_Internship
